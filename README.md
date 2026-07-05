@@ -245,4 +245,6 @@ This dashboard helps procurement teams:
 
 If you have any feedback, suggestions, or opportunities, feel free to connect with me on **LinkedIn**.
 
+linkedin.com/in/mohamed-salah-92073428b
+
 ⭐ If you found this project useful, consider giving the repository a star!
